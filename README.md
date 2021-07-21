@@ -1,5 +1,5 @@
 # data-visualisation-project-python
-### UoL Data Visualization projecting examining exercise habits before and during the Covid-19 pandemic
+### UoL Data Visualization project examining exercise habits before and during the Covid-19 pandemic
 
 This project was created as part of my Data Science MSc. The task was to create and design a simple survey and then present the results using Python data visualisation tools and Jupyter Notebooks. I chose to focus on exercise habits before and during the Covid-19 pandemic, to see if and how habits had changed.
 
